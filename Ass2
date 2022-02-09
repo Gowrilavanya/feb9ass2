@@ -1,0 +1,20 @@
+#program to find even or odd
+a=int(input("enter a num"))
+b=a%2
+if (b>0):
+    print("given number is odd")
+else:
+    print('given number is even')
+
+
+
+
+
+Output:
+enter a num
+
+997 
+
+given number is odd 
+
+
